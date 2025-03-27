@@ -245,3 +245,5 @@ To define a custom theme for Material-UI, including custom styles for a componen
    ```
 
 Now, all `Button` components in your app will use the custom styles defined in the theme.
+
+Now, you should have everything you need to get started and build upon this project. Happy coding!
